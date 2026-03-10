@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"hexlet-go/greeting"
 	"github.com/fatih/color"
+	"hexlet-go/greeting"
 )
 
-func main () {
+func main() {
 	fmt.Println(greeting.Hello())
 	color.Red(greeting.Hello())
 	c := color.New(color.BgGreen, color.FgYellow)
