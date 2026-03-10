@@ -10,5 +10,5 @@ func main() {
 	fmt.Println(greeting.Hello())
 	color.Red(greeting.Hello())
 	c := color.New(color.BgGreen, color.FgYellow)
-	c.Println("TEST TEST TEST!")
+	c.Println("Hexlet for Brave!")
 }
