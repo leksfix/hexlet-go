@@ -1,4 +1,4 @@
-module github.com/leksfix/hexlet-go/v2
+module hexlet-go
 
 go 1.25.0
 
